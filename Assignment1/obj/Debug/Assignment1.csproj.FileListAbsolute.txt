@@ -1,0 +1,15 @@
+C:\Users\Tim-san\Documents\QUT\CAB201\CAB201 Code\Assignment1\Assignment1\bin\Debug\Assignment1.exe.config
+C:\Users\Tim-san\Documents\QUT\CAB201\CAB201 Code\Assignment1\Assignment1\bin\Debug\Assignment1.exe
+C:\Users\Tim-san\Documents\QUT\CAB201\CAB201 Code\Assignment1\Assignment1\bin\Debug\Assignment1.pdb
+C:\Users\Tim-san\Documents\QUT\CAB201\CAB201 Code\Assignment1\Assignment1\obj\Debug\Assignment1.csprojResolveAssemblyReference.cache
+C:\Users\Tim-san\Documents\QUT\CAB201\CAB201 Code\Assignment1\Assignment1\obj\Debug\Assignment1.exe
+C:\Users\Tim-san\Documents\QUT\CAB201\CAB201 Code\Assignment1\Assignment1\obj\Debug\Assignment1.pdb
+C:\Users\Tim-san\Desktop\Assignment1\Assignment1\bin\Debug\Assignment1.exe.config
+C:\Users\Tim-san\Desktop\Assignment1\Assignment1\obj\Debug\Assignment1.exe
+C:\Users\Tim-san\Desktop\Assignment1\Assignment1\obj\Debug\Assignment1.pdb
+C:\Users\Tim-san\Desktop\Assignment1\Assignment1\bin\Debug\Assignment1.exe
+C:\Users\Tim-san\Desktop\Assignment1\Assignment1\bin\Debug\Assignment1.pdb
+C:\Users\Tim-san\Desktop\Assignment1\Assignment1\obj\Debug\Assignment1.csprojResolveAssemblyReference.cache
+C:\Users\Tim\Desktop\Assignment1\Assignment1\bin\Debug\Assignment1.exe.config
+C:\Users\Tim\Desktop\Assignment1\Assignment1\obj\Debug\Assignment1.exe
+C:\Users\Tim\Desktop\Assignment1\Assignment1\obj\Debug\Assignment1.pdb
